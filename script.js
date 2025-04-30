@@ -157,8 +157,7 @@ document.addEventListener('DOMContentLoaded', function() {
     
     if (downloadBtn) {
         downloadBtn.addEventListener('click', function(e) {
-            e.preventDefault();
-            alert('PDF download would be initiated here. This is a demonstration feature.');
+             window.open('https://arxiv.org/pdf/2503.23618v1', '_blank');
         });
     }
 });
