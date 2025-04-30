@@ -1,4 +1,4 @@
-name = "vl4hiar"
+name = "vlm4hiar"
 main = "src/index.js"
 compatibility_date = "2025-04-29"
 kv_namespaces = [
